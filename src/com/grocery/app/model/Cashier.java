@@ -9,6 +9,10 @@ import java.math.BigDecimal;
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Cashier {
     public static void main(String[] args) {
+
+        //lagay tayo ng stock? to initialize available items
+        //shop class? different itong cashier like it process and print receipt
+
         Customer customer1 = new Customer("Walter");
 //        Product product1 = new Product(1, "Ketchup", BigDecimal.valueOf(250.00));
 //        Cart cart1 = new Cart();
